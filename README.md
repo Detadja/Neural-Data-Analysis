@@ -1,5 +1,5 @@
 # Neural-Data-Analysis
-* This is a course project created in Google Colab. It analyzes and extracts multi-unit activity from ECoG recordings (obtained with permission from Dr. Azadeh Yazdan-Shahmorad) outputs it as a raster plot and plots the average firing rate.
+* This is a course project created in Google Colab. It analyzes and extracts multi-unit activity from non-primate ECoG recordings with simultaneous optogenetic stimulation (obtained with permission from Dr. Azadeh Yazdan-Shahmorad), outputs it as a raster plot and plots the average firing rate.
 
 * Last updated on: 28th Oct 2024, as Project 2 for the course BIOEN 560 - Neural Engineering.
 
